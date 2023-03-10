@@ -1,4 +1,10 @@
-### Hi there 👋
+
+- 👋 Hi, I'm @charlyeedson
+- 🤔 I'm interested in all things programming
+- ⚡ I'm a full-stack web engineer
+- 🔭 I'm looking for a full-stack/frontend/backend job.
+- 🌱 I'm constantly learning and growing, so make sure to check back my progress!
+- 📫 How to reach me charley1135@gmail.com
 
 <!--
 **CharleyEdson/charleyedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
