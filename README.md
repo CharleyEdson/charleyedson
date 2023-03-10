@@ -1,5 +1,5 @@
 
-- 👋 Hi, I'm @charlyeedson
+- 👋 Hi, I'm @charleyedson
 - 🤔 I'm interested in all things programming
 - ⚡ I'm a full-stack web engineer
 - 🔭 I'm looking for a full-stack/frontend/backend job.
